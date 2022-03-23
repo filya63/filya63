@@ -4,4 +4,5 @@
 ![Vue](https://img.shields.io/badge/-Vue-ffffff?style=for-the-badge&logo=vue)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=for-the-badge&logo=typescript)
 
-#### Check [my development blog](https://www.instagram.com/vladisnan/) (2600 subs)
+#### Check [my development blog](https://www.instagram.com/vladisnan/) (2600 subs).
+#### Do you have questions? Write [Telegram](https://t.me/onetwothreedrrink)!
