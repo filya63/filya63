@@ -4,4 +4,4 @@
 ![Vue](https://img.shields.io/badge/-Vue-ffffff?style=for-the-badge&logo=vue)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=for-the-badge&logo=typescript)
 
-#### Do you have questions? Write [Telegram](https://t.me/onetwothreedrrink)!
+#### Do you have questions? Write to [Telegram](https://t.me/onetwothreedrrink)!
