@@ -5,3 +5,5 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=for-the-badge&logo=typescript)
 
 #### Do you have questions? Write to [Telegram](https://t.me/onetwothreedrrink)!
+
+Also, if you will be interesting, [I have tech-blog about IT, and front-end development](https://instagram.com/vladisnan) - I wait your subscribe.
