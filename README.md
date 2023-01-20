@@ -2,6 +2,7 @@
 ### I write and use technologies like this:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-ffffff?style=for-the-badge&logo=vue)
+![React](https://img.shields.io/badge/-React-ffffff?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=for-the-badge&logo=typescript)
 
 #### Do you have questions? Write to [Telegram](https://t.me/onetwothreedrrink)!
